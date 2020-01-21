@@ -1,6 +1,6 @@
 ---
 title: Home
-permalink: /
+permalink: 
 layout: default
 authors: ['exvacuum']
 ---
