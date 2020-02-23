@@ -13,7 +13,7 @@ authors: ['exvacuum']
 
 ![headerimg]
 
-[headerimg]:../../assets/images/floatingwindowheader.png
+[headerimg]:../assets/images/floatingwindowheader.png
 
 **Example of a "floating" player object.**
 
@@ -186,6 +186,6 @@ Now this should result in a program that looks something like this:
 
 ![result]
 
-[result]:../../assets/images/result.png
+[result]:../assets/images/result.png
 
 And there you have it! A bizarre little mind-bending effect that can add an element of surreal to any game.
